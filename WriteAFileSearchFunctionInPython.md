@@ -1,4 +1,8 @@
+[🏠HOME](README.md)
+
 # Write A File Search Function In Python
+
+---
 
 ```python
 import os
@@ -20,3 +24,5 @@ def search(pattern, path='.', file_only=False, dir_only=False):
                     res.append(os.path.join(root, f)) 
     return res
 ```
+
+<div style="position:absolute; top:calc(100vh - 12px); line-height:10px; right:12%;">@chunribu 2021</div>
