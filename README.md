@@ -1,9 +1,3 @@
-# CHUNRIBU'S BLOG
-
-> hello world!
-
----
-
-## BLOG LIST
+# BLOG LIST
 
 + [Hello World](./HelloWorld.md)
