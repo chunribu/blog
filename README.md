@@ -1,4 +1,4 @@
-[HOME](https://chunribu.github.io/blog/)
+[🏠HOME](https://chunribu.github.io/blog/)
 
 # BLOG LIST
 
