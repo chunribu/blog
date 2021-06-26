@@ -5,5 +5,5 @@
 ---
 
 + [Hello World](./HelloWorld.md)
-+ [Write A File Search Function in Python](./WriteAFileSearchFunctionInPython.md)
++ [Write a File Search Function in Python](./WriteAFileSearchFunctionInPython.md)
 
