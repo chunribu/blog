@@ -24,5 +24,3 @@ def search(pattern, path='.', file_only=False, dir_only=False):
                     res.append(os.path.join(root, f)) 
     return res
 ```
-
-<div style="position:absolute; bottom:0; line-height:10px; right:12%;">@chunribu 2021</div>
