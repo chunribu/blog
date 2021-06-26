@@ -1,1 +1,7 @@
+title: "CHUNRIBU BLOG"
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
