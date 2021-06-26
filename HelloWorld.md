@@ -1,3 +1,3 @@
-[> HOME](./README.md)
+[🏠HOME](./README.md)
 ---
 # Hello World!
