@@ -22,5 +22,5 @@
 
 ---
 
-<img src="src/ms_workflow.jpg" alt="workflow pic" width=300 />
-<img src="src/proteomics_outline.jpg" alt="outline pic" width=430 />
+<img src="src/ms_workflow.jpg" alt="workflow pic" width=280 />
+<img src="src/proteomics_outline.jpg" alt="outline pic" width=400 />
