@@ -6,7 +6,7 @@
 
 [蛋白质组学研究方法概述（上）](https://www.jianshu.com/p/36d5a7afa4de)
 [蛋白质组学研究方法概述（下）](https://www.jianshu.com/p/de5f5a43cc3b)
-<imgsrc="src/ms_workflow.jpg" alt="workflow pic" width=100 />
+<img src="src/ms_workflow.jpg" alt="workflow pic" width=100 />
 
 > Theory & Usage
 
