@@ -1,6 +1,6 @@
 [🏠HOME](README.md)
 
-# Get The Original Index of A Sorted List
+# Get The Original Index of a Sorted List
 
 ---
 
