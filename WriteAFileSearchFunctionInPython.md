@@ -1,6 +1,6 @@
 [🏠HOME](README.md)
 
-# Write A File Search Function in Python
+# Write a File Search Function in Python
 
 ---
 
