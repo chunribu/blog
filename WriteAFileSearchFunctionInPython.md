@@ -10,7 +10,7 @@ import re
 
 def search(pattern, path='.', file_only=False, dir_only=False): 
     '''
-    Search for files and/or directions under a certain path recursively.
+    Search for files and/or directorys under a certain path recursively.
     ''' 
     res = [] 
     for root, dirs, files in os.walk(path): 
