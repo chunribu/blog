@@ -12,7 +12,7 @@ The algorithm is based on the following workflow:
 2. Calculate differences between each neighbor.
 3. Divide the mass vector at the largest gap (largest difference) and form a left and a right bin.
 4. Rerun step 3 for the left and/or the right bin if they don’t fulfill the following criteria:
-> All peaks in a bin are near to the mean (abs(mass-meanMass)/meanMass < tolerance).
+    + All peaks in a bin are near to the mean (abs(mass-meanMass)/meanMass < tolerance).
 
 The new peak positions (mass value) are the mean mass of a bin.
 
