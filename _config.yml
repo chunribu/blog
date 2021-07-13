@@ -1,5 +1,5 @@
 title: CHUNRIBU
-theme: jekyll-theme-hacker
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-relative-links
 relative_links:
