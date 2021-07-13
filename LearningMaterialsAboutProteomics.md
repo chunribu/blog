@@ -2,8 +2,6 @@
 
 # Learning Materials about Proteomics
 
----
-
 > Outline
 
 [蛋白质组学研究方法概述（上）](https://www.jianshu.com/p/36d5a7afa4de)
@@ -24,5 +22,5 @@
 
 ---
 
-<span><img src="src/ms_workflow.jpg" alt="workflow pic" width=280 /></span>
-<span><img src="src/proteomics_outline.jpg" alt="outline pic" width=415 /></span>
+<span><img src="src/ms_workflow.jpg" alt="workflow pic" width=250 /></span>
+<span><img src="src/proteomics_outline.jpg" alt="outline pic" width=350 /></span>
