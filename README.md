@@ -11,3 +11,4 @@
 + [The VIP Algorithm](TheVIPAlgorithm.md)
 + [Binning Algorithm For MS Features.md](BinningAlgorithmForMSFeatures.md)
 + [卦爻编码](卦爻编码.md)
++ [Quick Sort Algorithm](QuickSortAlgorithm.md)
