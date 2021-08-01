@@ -1,4 +1,4 @@
-[🏠HOME](README.MD)
+[🏠HOME](README.md)
 
 # Shapley Value
 
