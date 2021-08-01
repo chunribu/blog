@@ -73,3 +73,6 @@ def bin_peaks(PeakList, tol=0.002):
     Peaks_matrix = as_matrix(Peaks_split)
     return Peaks_matrix
 ```
+
+Note: 
+It is necessary to be improved
