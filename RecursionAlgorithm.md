@@ -38,9 +38,9 @@ def fibonacci(n):
 当n较大时，由于大量重复运算，运算效率会降低。可采用`functools.lru_catch`充分利用缓存的运算结果。
 
 ```python
-from functools import lru_catch
+from functools import lru_cache
 
-@lru_catch
+@lru_cache(maxsize=512)
 def fibonacci(n):
     if n==0 or n==1:
         return n
