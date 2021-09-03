@@ -64,6 +64,12 @@ def log(text):
             return func(*args, **kw)
         return wrapper
     return decorator
+
+@log('execute')
+def now():
+    print('2021-9-3')
+
+now()
 ```
 Out:
 ```
