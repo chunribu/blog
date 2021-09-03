@@ -35,7 +35,7 @@ def fibonacci(n):
         return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-当n较大时，由于大量重复运算，运算效率会降低。可采用`functools.lru_catch`充分利用缓存的运算结果。
+当n较大时，由于大量重复运算，运算效率会降低。可采用`functools.lru_cache`充分利用缓存的运算结果。
 
 ```python
 from functools import lru_cache
