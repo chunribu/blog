@@ -34,7 +34,7 @@ Out：
 Total time taken in :  factorial 2.6226043701171875e-06
 ```
 
-函数是对象，有__name__等属性，但经过decorator装饰之后的函数，实质上已经是另一个函数了，其__name__从原来的`factorial`变成了'wrapper'。为了使被装饰的函数不做修改，Python内置的`functools.wraps`提供了便捷的解决方案。
+函数是对象，有__name__等属性，但经过decorator装饰之后的函数，实质上已经是另一个函数了，其__name__从原来的`factorial`变成了`wrapper`。为了使被装饰的函数不做修改，Python内置的`functools.wraps`提供了便捷的解决方案。
 
 ```python
 import time
