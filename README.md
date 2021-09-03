@@ -14,3 +14,4 @@
 + [Quick Sort Algorithm](QuickSortAlgorithm.md)
 + [Shapley Value](ShapleyValue.md)
 + [Recursion Algorithm](RecursionAlgorithm.md)
++ [Decorators in Python](DecoratorsInPython.md)
