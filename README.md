@@ -15,4 +15,3 @@
 + [Shapley Value](ShapleyValue.md)
 + [Recursion Algorithm](RecursionAlgorithm.md)
 + [Decorators in Python](DecoratorsInPython.md)
-+ [Interpretable Methods for Machine Learning](InterpretableMethodsForMachineLearning.md)
