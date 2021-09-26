@@ -15,3 +15,4 @@
 + [Shapley Value](ShapleyValue.md)
 + [Recursion Algorithm](RecursionAlgorithm.md)
 + [Decorators in Python](DecoratorsInPython.md)
++ [在国内安装QIIME2](Qiime2Installation.md)
