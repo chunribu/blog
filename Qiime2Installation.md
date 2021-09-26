@@ -30,7 +30,7 @@ custom_channels:
 wget https://data.qiime2.org/distro/core/qiime2-2021.8-py38-linux-conda.yml
 ```
 
-打开文件，修改channels中的`qiime2/label/r2021.8`为`qiime2`.
+打开文件，修改channels中的`qiime2/label/r2021.8`为`qiime2`
 
 参考 https://docs.qiime2.org/2021.8/install/native/
 
