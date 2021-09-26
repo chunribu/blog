@@ -4,7 +4,7 @@
 
 ---
 
-## step 1：给conda换清华源
+## Step 1：给conda换清华源
 
 修改用户目录下的 `.condarc` 文件的内容为
 
@@ -24,7 +24,7 @@ custom_channels:
 
 参考 https://mirror.tuna.tsinghua.edu.cn/help/anaconda/
 
-## step 2：下载最新`yml`文件并修改`channels`
+## Step 2：下载最新`yml`文件并修改`channels`
 
 ```
 wget https://data.qiime2.org/distro/core/qiime2-2021.8-py38-linux-conda.yml
@@ -34,7 +34,7 @@ wget https://data.qiime2.org/distro/core/qiime2-2021.8-py38-linux-conda.yml
 
 参考 https://docs.qiime2.org/2021.8/install/native/
 
-## step 3：安装
+## Step 3：安装
 
 ```
 conda env create -n qiime2-2021.8 --file qiime2-2021.8-py38-linux-conda.yml
