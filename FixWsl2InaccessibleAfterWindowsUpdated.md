@@ -1,4 +1,4 @@
-[HOME🏠](README.md)
+[🏠HOME](README.md)
 
 # Fix: WSL2 Become Inaccessible After Windows Updated
 ---
