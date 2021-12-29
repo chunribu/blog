@@ -32,4 +32,4 @@ conn = sqlite3.connect("example.db")
 ## Write
 `DataFrame.to_sql(name, con, schema=None, if_exists='fail', index=True, index_label=None, chunksize=None, dtype=None, method=None)[source]`
 
-[link to ref](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.to_sql.html)
+[link to to_sql](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_sql.html)
