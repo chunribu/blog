@@ -21,3 +21,4 @@
 + [Fix: WSL2 Become Inaccessible After Windows Updated](FixWsl2InaccessibleAfterWindowsUpdated.md)
 + [GATK Germline Pipeline](html/GATK_germline_pipeline.html)
 + [孟德尔病的变体优先排序](孟德尔病的变体优先排序.md)
++ [How to clone a subdirectory using git](HowToCloneASubdirectoryUsingGit.md)
